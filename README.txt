@@ -3,4 +3,4 @@ X3nThaN
 Alexander Rybakov
 
 --Project--
-Chess
+Arcade shooter
